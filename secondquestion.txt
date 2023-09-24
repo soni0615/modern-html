@@ -1,0 +1,24 @@
+ Meaning of Html Entities:-
+Html Entities are those who contain reserved word or special characters for purposely used.There are large number of entities in html.Html entities are useful when we want to display some of the special characters on webpage.
+
+Usage of html entities:-
+ 1.Html Entities used some special code for displaying on website.
+ 2.Those characters or reserved words which cant easily displayed on webpage they use html entities. 
+ 3.html entities are useful for screen readers. 
+ 4.Entity names are case-sensitive. 
+
+ Commonly Used Html Entities:-
+ 1.Copyright symbol:-These symbol used for copyright purposes.Name of the copyright entity is
+  &copy; and number for copyright symbol is &#169; The result will be look like this ©.
+
+2.Euro Symbol:- Euro is a currency symbol.Name of the euro entity is &euro; and number of euro entity is &#8364; result will be look like this € . 
+
+3.Less than:-It defines the lesser value.The name of less than entity is &lt; and number of less than symbol is &#60; the result looks like this < . 
+
+4.Greater than:- It defines the greater value. The name of the entity is &gt; and number of greater than symbol is &#62; the result looks like this > .
+
+5.Pound:pound is a currency.The name of pound entity is &pound;	and the number of pound entity is &#163; the result looks like this £ .
+
+
+
+

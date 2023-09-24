@@ -1,0 +1,7 @@
+There are many ways to improves the html accessibility.Some of them are:-
+
+1.Using Semantic Tags in html:-if we use semantic tags in html then it can improve the structure of website also helps in broswer rendering and it can also improves the seo of the webpage.We can use tags like header,footer,navetc there are many tags which added in html5 for improving the accessibility of websites.It gaves the meaning to tags so people understand in easy way.
+
+2.Addition Of Audio And Video tags:-If we use audio and video tags then these are helpful  those persons who have  problem like hearing or blindess or anything else they can also access the website in proper manner thats why it is also helpful for better ranking and audio and video tags makes our website structured . If we use audio and video at right place and gave us meaningful purpose then it will be helpful to improving accessibility in html.
+
+3.Dynamic Websites:-In html5,we can also create the dynamic websites which was basically used for web apps.It creates the social interaction between users.If we use the dynamic websites then make sure we use proper semantic tags and many other features for improving the accessibility . If we use proper structurethen it is also helpful for better accessibility and broswer rendering.

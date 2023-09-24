@@ -1,0 +1,12 @@
+Accesibility in web development:-In web development,accessibility plays an important role it also improves the SEO of website and it gaves a proper structure and layout to user.For those persons who have disabilities problem like hearing or blindess or anything else they can also access the website in proper manner thats why in web development accessibility is necessary.
+
+ Essential Creation Of Accessible Websites:- 
+ 1.Better Seo:- accessibility improves the websites seo it gaves the high ranking to website.
+ 2. Improves User-Experience:-It improves the user experience if we use proper structure and proper tags in website then the user experience will improves and gave popularity to our website.
+3.Usage of semantic tags:-Semantic tags makes the website more accessible and it can improves the accessibility of website.
+
+Benefits Of Making Accessible Website For User Groups:-
+1.Government projects:-It is necessary to use accessibility in government websites.Those who are facing problems like hearing or anyother problem so if website is accessible then the users dont face any issue so its a plus point for them.
+2.Social media Groups:-if we use accessibility in website then it can interact the social media users and influence them and they can connect easily .
+3.Technology Groups:-Accesibility is also important in technology groups it makes the websites more accessible we can share easily knowledge related information shares best experience for everyone and troubleshoot in websites so user can take knowledge and maintain their websites.
+4.Education Groups:- we can also share the experience so it everyone can gain some knowledge by using this websites.
